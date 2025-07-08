@@ -1,6 +1,3 @@
-# ad_campaign_performance
-Analyzing Advertising Campaign Performance across Multiple Platforms and Uncovering Insights into Advertising Campaign Effectiveness with R.
-
 ---
 title: "Advert Campaign Performance Analysis with R"
 author: "Richard Ndah"
