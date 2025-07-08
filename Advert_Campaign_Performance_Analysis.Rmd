@@ -2,7 +2,7 @@
 title: "Advert Campaign Performance Analysis with R"
 author: "Richard Ndah"
 date: "2025-02-26"
-output: github_document
+output: rmarkdown::github_document
 ---
 
 
