@@ -5,7 +5,7 @@ Analyzing Advertising Campaign Performance across Multiple Platforms and Uncover
 title: "Advert Campaign Performance Analysis with R"
 author: "Richard Ndah"
 date: "2025-02-26"
-output: html_document
+output: github_document
 ---
 
 
